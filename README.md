@@ -21,7 +21,7 @@ This Python-powered data analysis project examines four years of sales records t
 This project includes clear and informative visualizations to communicate business health:
 
 - 📈 **Line / Bar Charts** – Visualizing revenue growth across years  
-- 📊 **Comparative Analysis** – Side-by-side performance of categories (Technology vs others)  
+- 📊 **Comparative Analysis** – Side-by-side performance of categories  
 - 📑 **Data Summaries** – Aggregated tables showing yearly performance and product rankings  
 
 ---
@@ -93,6 +93,16 @@ The business generated a total of **$2,252,607.18** in sales over the four-year 
 
 ---
 
+## 🔎 Further Analysis: Understanding the 2016 Sales Dip
+
+![Volume vs Value Insight](images/volume_vs_value_insight.png)
+
+Although total sales declined in 2016, order volume **increased** compared to 2015. The decline was driven by a **drop in average order value**, indicating a shift toward lower-priced purchases rather than reduced customer demand.
+
+This follow-up analysis demonstrates how separating **volume** from **value** provides deeper insight into revenue performance beyond headline figures.
+
+---
+
 ## 🙌 Contributing
 
 You are welcome to fork this repository, replace the dataset, and adapt the analysis logic to your own business or domain use cases.
@@ -101,8 +111,6 @@ You are welcome to fork this repository, replace the dataset, and adapt the anal
 
 ## 📬 Contact
 
-**Your Name**
+**Fareed Ologundudu**
 Connect with me on [LinkedIn](https://www.linkedin.com/in/fareed-ologundudu-129506249/)
 View more projects on [GitHub](https://github.com/Fareed04)
-
-```
